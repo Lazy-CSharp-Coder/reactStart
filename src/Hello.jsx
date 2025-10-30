@@ -1,8 +1,10 @@
 function Hello()
 {
+    const userName = "Harald";
+    
     return( 
         <>
-            <h1>Velkommen</h1>
+            <h1>Velkommen ${userName}s</h1>
         </>
     );
 }
