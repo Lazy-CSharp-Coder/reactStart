@@ -1,7 +1,6 @@
 function Hello()
 {
-    return
-    ( 
+    return( 
         <>
             <h1>Velkommen</h1>
         </>
