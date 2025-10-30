@@ -4,7 +4,7 @@ function Hello()
     
     return( 
         <>
-            <h1>Velkommen ${userName}s</h1>
+            <h1>Velkommen {userName}</h1>
         </>
     );
 }
