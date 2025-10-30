@@ -1,4 +1,4 @@
-import { myImage} from "./assets/myimage.png";
+import { myImage} from "./images/testreact.jpg";
 
 function Hello()
 {
